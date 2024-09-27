@@ -1,6 +1,7 @@
 package org.lost_teddy.core.domain.models
 
-data class Location(
+// XXX TODO should be a value object unless
+data class Location (
     val latitude: Double,
     val longitude: Double
 )

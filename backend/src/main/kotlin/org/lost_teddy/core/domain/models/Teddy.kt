@@ -1,6 +1,6 @@
 package org.lost_teddy.core.domain.models
 
-import org.lost_teddy.core.domain.valueobjects.TeddyStatus
+import org.lost_teddy.core.domain.value_objects.TeddyStatus
 import java.util.Date
 
 data class Teddy(

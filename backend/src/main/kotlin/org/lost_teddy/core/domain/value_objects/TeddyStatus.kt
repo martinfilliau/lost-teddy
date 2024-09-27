@@ -1,4 +1,4 @@
-package org.lost_teddy.core.domain.valueobjects
+package org.lost_teddy.core.domain.value_objects
 
 enum class TeddyStatus {
     OPEN, FOUND, ABANDONED

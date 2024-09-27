@@ -21,6 +21,7 @@ Running the backend in development: `./gradlew bootRun`
 - [ ] Documentation
   - [ ] [KMolecules](https://github.com/xmolecules/jmolecules)
 - [ ] [Arrow](https://arrow-kt.io/)
+- [ ] Proper [clean architecture & CQRS](https://alexbryksin.medium.com/kotlin-clean-architecture-and-cqrs-74f8f0cacca8)
 
 ### Technologies used
 
